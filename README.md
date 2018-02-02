@@ -35,6 +35,6 @@ https://extensions.gnome.org/extension/307/dash-to-dock/
 
 https://extensions.gnome.org/extension/15/alternatetab/
 
-##Not an extension, but a really cool application
+## Not an extension, but a really cool application
 
 https://albertlauncher.github.io/docs/installing/
